@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/kim/CLionProjects/DataStructures/cmake-build-debug",
+	"dir-cur-src" : "/home/kim/CLionProjects/DataStructures",
+	"dir-top-bld" : "/home/kim/CLionProjects/DataStructures/cmake-build-debug",
+	"dir-top-src" : "/home/kim/CLionProjects/DataStructures",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/kim/CLionProjects/DataStructures/cmake-build-debug/CMakeFiles/DataStructures.dir"
+}
